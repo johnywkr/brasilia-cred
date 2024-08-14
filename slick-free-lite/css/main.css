@@ -519,7 +519,9 @@ button:focus {
         background: #fff;
         color: #3ecf8e; }
   .hero-area .intro-img {
-    padding: 180px 0 0px; }
+    padding: 160px 0 0px; 
+    padding-left: 10%;  
+  }
     .hero-area .intro-img img {
       display: block;
       height: auto;
@@ -839,7 +841,7 @@ button:focus {
    ========================================================================== */
 #testimonial {
   margin-bottom: 270px;
-  background: url(../img/bg/testimonial-bg.jpg) no-repeat center center;
+  background: url() no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -919,7 +921,7 @@ button:focus {
       border-color: #3ecf8e; }
   #testimonial .video-promo-content {
     padding-top: 0;
-    padding-bottom: 300px; }
+    padding-bottom: 0px; }
   #testimonial .video-play-button {
     position: absolute;
     z-index: 10;
