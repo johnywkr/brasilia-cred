@@ -18,8 +18,8 @@ body {
   color: #a0a6ad;
   font-size: 14px;
   font-weight: 400;
-  background: #fff;
-  overflow-x: hidden; }
+  background: #fff;}
+  
 
 html {
   overflow-x: hidden; }
@@ -845,7 +845,9 @@ button:focus {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover; }
+  background-size: cover; 
+  background-color: gray;
+  height: 50px;}
   #testimonial .right-position {
     position: relative; }
   #testimonial .testimonial-area {
