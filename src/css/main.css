@@ -185,7 +185,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   vertical-align: middle; }
 
 .btn-singin {
-  background: #7fc9fb;
+  background: #08df50;
   color: #fff;
   padding: 10px 23px;
   margin-left: 30px;
@@ -524,7 +524,7 @@ button:focus {
   }
     .hero-area .intro-img img {
       display: block;
-      height: auto;
+      height: 200;
       max-width: 100%; }
 
 /* ==========================================================================
@@ -846,7 +846,7 @@ button:focus {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover; 
-  background-color: gray;
+  background-color: #43cdec57;
   height: 50px;}
   #testimonial .right-position {
     position: relative; }

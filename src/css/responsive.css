@@ -166,7 +166,8 @@
 
 @media (min-width: 320px) and (max-width: 480px) {
   .bg-inverse {
-    background: #191c1e; }
+    background:  #427be6;
+  }
   .navbar {
     padding: 0; }
   .navbar-brand img {
@@ -184,7 +185,7 @@
     line-height: 35px;
     margin-bottom: 10px; }
   .hero-area .contents {
-    padding: 200px 0 50px; }
+    padding: 70px 0 0px; }
   .hero-area .contents p {
     color: #fff;
     font-size: 14px;
@@ -206,12 +207,15 @@
     height: 45px;
     padding: 15px 15px; }
   .hero-area .intro-img {
-    padding: 30px 0 0px;
-    padding-left: 90px;
+    padding: 0px 0 0px;
+    padding-left: 70px;
     margin-bottom: 30px;
     width: 350px;}
   .section {
-    padding: 70px 0px; }
+    padding: 70px 0px;
+    padding-top: 12px;
+  }
+    
   #services .services-item {
     padding: 30px 15px;
     margin-bottom: 15px; }
@@ -219,6 +223,9 @@
     font-size: 25px; }
   .section-header .section-title {
     font-size: 25px; }
+    #business-plan {
+      padding-bottom: 30px;
+    }
   #services .services-item p {
     font-size: 14px; }
   #business-plane .business-item-info p {
